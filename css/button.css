@@ -1,0 +1,16 @@
+.button {
+    color: black;
+    border: 1px dotted black;
+    background-color: rgba(72, 196, 196, 0.644);
+    margin-top: 30px;
+    font-size: 19px;
+    font-family: "Lato", sans-serif;
+    font-weight: bold;
+    padding: 10px 5px;
+}
+
+.button:hover {
+    color: black;
+    border: 1px solid;
+    outline: none;
+}

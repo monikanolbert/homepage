@@ -12,4 +12,8 @@
 
 **What will you find on my website? Check it!**
 
-![animation](https://github.com/monikanolbert/homepage/blob/main/gifs/animation.gif?raw=true)
+![screenshot_1](https://github.com/monikanolbert/homepage/blob/main/images/screenshot_1.PNG?raw=true)
+
+![screenshot_2](https://github.com/monikanolbert/homepage/blob/main/images/screenshot_2.PNG?raw=true)
+
+![screenshot_3](https://github.com/monikanolbert/homepage/blob/main/images/screenshot_3.PNG?raw=true)

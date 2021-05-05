@@ -10,7 +10,7 @@
 
 ## Description
 
-**What will you find on my website? Check it!**
+**What will you find on my website? Check it! :blush:**
 
 ![screenshot_1](https://github.com/monikanolbert/homepage/blob/main/images/screenshot_1.PNG?raw=true)
 

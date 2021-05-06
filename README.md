@@ -17,3 +17,10 @@
 ![screenshot_2](https://github.com/monikanolbert/homepage/blob/main/images/screenshot_2.PNG?raw=true)
 
 ![screenshot_3](https://github.com/monikanolbert/homepage/blob/main/images/screenshot_3.PNG?raw=true)
+
+## Used technologies
+
+* HTML
+* CSS
+* BEM
+* ES6+ features

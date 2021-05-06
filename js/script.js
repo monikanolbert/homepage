@@ -1,14 +1,24 @@
-console.log("Hello everyone! This is my first website.");
+{
+    const welcome = () => {
+        console.log("Hello everyone! This is my first website.");
+    }
 
-let button = document.querySelector(".js-button");
-let body = document.querySelector(".js-body");
-let button__backgroundName = document.querySelector(".js-button__backgroundName");
+    const onChangeBackgroundClick = () => {
+        const body = document.querySelector(".js-body");
+        body.classList.toggle("body--dark");
+        const button__backgroundName = document.querySelector(".js-button__backgroundName");
+        button__backgroundName.innerText = body.classList.contains("body--dark")
+            ? "jaśniejsze"
+            :
+            "ciemniejsze";
+    };
 
-button.addEventListener("click", () => {
-    body.classList.toggle("body--dark");
+    const init = () => {
+        const changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
+        changeBackgroundButton.addEventListener("click", onChangeBackgroundClick);
 
-    button__backgroundName.innerText = body.classList.contains("body--dark")
-        ? "jaśniejsze"
-        :
-        "ciemniejsze";
-});
+        welcome();
+    };
+
+    init();
+}
